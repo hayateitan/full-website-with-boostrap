@@ -1,1 +1,0 @@
-import * as Model from './view.js'
